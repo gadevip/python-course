@@ -1,0 +1,1 @@
+print('自己建立的random.py文件')
